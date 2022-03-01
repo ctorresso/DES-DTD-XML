@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<JUEGOS>
+        <EQUIPOS>
+                <nombre>Monterrey</nombre>
+                <faltas>12</faltas>
+                <targeta_amarilla>1</targeta_amarilla>
+                <targeta_roja>0</targeta_roja>
+                <fuera_de_lugar>1</fuera_de_lugar>
+                <tiros_de_esquina>6</tiros_de_esquina>
+                <atajadas>0</atajadas>
+        </EQUIPOS>
+        <EQUIPOS>
+                <nombre>Atletico San Luis</nombre>
+                <faltas>7</faltas>
+                <targeta_amarilla>0</targeta_amarilla>
+                <targeta_roja>0</targeta_roja>
+                <fuera_de_lugar>1</fuera_de_lugar>
+                <tiros_de_esquina>0</tiros_de_esquina>
+                <atajadas>0</atajadas>
+        </EQUIPOS>
+</JUEGOS>
